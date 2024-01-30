@@ -1,0 +1,57 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-image: url("images/bar-ge003af24c_1280 1.jpg") ;
+    height: 20vh;
+}
+h1{
+    font-size: 24px;
+    color:#FFC100;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 70%; 
+}
+
+.titleButton{
+    background-color: rgba(0, 0, 0, 0.274);
+    display: flex;
+}
+
+button{
+    background-color: #FF8200;
+    border:none;
+    border-radius: 16px;
+    width: 110px;
+    height:33px;
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 8px 6px 0px 0px;
+}
+
+.lowerHeader{
+    margin-top: 110px;
+    background-color: #FF8200;
+    text-align: center;
+    padding: 4px 0px; 
+    gap: 1px;
+    height: 90px;
+}
+h2{
+    color: #FFEAAE;
+    text-transform: uppercase;
+}
+.italic{
+   font-style: italic;
+   margin-top: 10px;
+   font-size: 14px;
+   font-weight: 400;
+    line-height: normal;
+}
